@@ -1,0 +1,16 @@
+{
+    "name": "win/task-php",
+    "autoload": {
+        "psr-4": {
+            "Win\\TaskPhp\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Elenor",
+        }
+    ],
+    "require": {
+        "klein/klein": "^2.1"
+    }
+}
